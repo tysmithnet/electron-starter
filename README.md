@@ -3,6 +3,7 @@
 - [ ] Webpack
 - [ ] TypeScript
 - [ ] Hot reload
+- [ ] TypeOrm
 - [ ] Storybook like feature
 - [ ] Unit, Integration, and e2e tests
 - [ ] SQLjs
